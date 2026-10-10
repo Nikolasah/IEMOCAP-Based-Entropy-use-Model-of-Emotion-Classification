@@ -1,0 +1,9 @@
+ - Dynamic Interactive Multiview Memory Network (DIMMN)
+
+- ⁠Emotion Transition and Causal Emotion Entailment Network (ETCE-Net)
+
+- ⁠Multimodal Knowledge-enhanced Interactive Network with Mixed Contrastive Learning (Kalo banyak bias)
+
+- Predicting Emotions in Conversations (PEC) framework
+
+- ⁠MRSLN (Multimodal Residual Speaker-LSTM Network 
